@@ -1,0 +1,100 @@
+
+
+
+#PageTitle {
+    color: white;
+    font-family: Helvetica;
+    font-size: 50px;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 40%;
+}
+
+
+.navbar {
+    position: relative;
+    overflow: hidden;
+    font-family: Helvetica;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
+.navbar a {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:orange;
+  }
+
+#slogan {
+    color: white;
+    font-family: Helvetica;
+    font-size: 70px;
+    padding-top: 1px;
+    padding-left: 22%;
+}
+
+
+.footer{
+    color:white;
+    background-color: black;
+    width: 785px;
+    height:80px;
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+#bag{
+    float:left;
+    height:150px;
+    width: 150px;
+    
+
+}
+#p1{
+    position: relative;
+    top: 1px;
+    left: 22%;
+}
+
+#cartbutton{
+    background-color:white;
+    color:black;
+    position: relative;
+    left: 40%;
+    top: 10%;
+}
+
+#p2{
+    position: relative;
+    top: 10px;
+    left: 22%;
+}
+#p3{
+    position: relative;
+    top: 20px;
+    left: 22%;
+}
+
+#p{
+    color:white;
+    font-family: Helvetica;
+    font-size:30px;
+    margin-left: 30%;
+
+}
+
+#mobile {
+    background-image: url('coffee2.jpeg');
+    height: 1038px;
+    width: 785px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+

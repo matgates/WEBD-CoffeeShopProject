@@ -1,0 +1,65 @@
+
+
+
+#PageTitle {
+    color: white;
+    font-family: Helvetica;
+    font-size: 50px;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 40%;
+}
+
+
+.navbar {
+    position: relative;
+    overflow: hidden;
+    font-family: Helvetica;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
+.navbar a {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:orange;
+  }
+
+#slogan {
+    color: white;
+    font-family: Helvetica;
+    font-size: 70px;
+    padding-top: 5%;
+    padding-left: 20%;
+}
+
+#ipsum{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.footer{
+    color:white;
+    background-color: black;
+    width: 785px;
+    height:80px;
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+#mobile {
+    background-image: url('coffee2.jpeg');
+    height: 1038px;
+    width: 785px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
